@@ -1,0 +1,26 @@
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Moq.dll
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Moq.xml
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CopyComplete
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+C:\Users\Andy y Martín\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.dll
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\CodingChallenge.Data.pdb
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.dll
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Moq.dll
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Castle.Core.xml
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Moq.xml
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.csproj.CopyComplete
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.dll
+C:\Users\Dell\Desktop\PROYECTO\IOL\CodingChallenge\CodingChallenge.Data\obj\Debug\CodingChallenge.Data.pdb

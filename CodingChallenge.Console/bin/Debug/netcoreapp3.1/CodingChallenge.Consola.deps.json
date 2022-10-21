@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodingChallenge.Consola/1.0.0": {
+        "dependencies": {
+          "CodingChallenge.Data": "1.0.0"
+        },
+        "runtime": {
+          "CodingChallenge.Consola.dll": {}
+        }
+      },
+      "CodingChallenge.Data/1.0.0": {
+        "runtime": {
+          "CodingChallenge.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingChallenge.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingChallenge.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
